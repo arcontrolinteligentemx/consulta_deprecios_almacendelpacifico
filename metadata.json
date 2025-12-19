@@ -1,0 +1,7 @@
+{
+  "name": "Almacén del Pacífico Tecuala",
+  "description": "Verificador de precios para productos de Grupo Modelo en Tecuala, Nayarit.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
